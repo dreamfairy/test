@@ -4,5 +4,5 @@ int main()
 {
 	²ÙÄã´óÒ¯
     printf("just hello world!");
-    return 0;
+    return -1;
 }
