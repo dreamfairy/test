@@ -2,7 +2,6 @@
 
 int main()
 {
-	²ÙÄã´óÒ¯
-    printf("just hello world!");
-    return -1;
+    printf("just hello world! fuck you");
+    return -3;
 }
